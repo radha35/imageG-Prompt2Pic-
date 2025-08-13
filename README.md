@@ -139,11 +139,6 @@ User (React.js Frontend) → [HTTPS Request] → Backend (Express.js)
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
 **Radha**  
 🔗 [GitHub](https://github.com/yourusername)  
