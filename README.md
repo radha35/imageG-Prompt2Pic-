@@ -52,55 +52,39 @@ imageG/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/allknowledge34/ImageZ.git
-cd ImageZ
+https://github.com/radha35/imageG-Prompt2Pic-.git
+cd imageG
   
 └── README.md
 
 2️⃣ Setup Backend (Server)
-bash
-Copy
-Edit
 cd server
 npm install
-Create a .env file inside the server folder:
 
-env
-Copy
-Edit
+
+Create a .env file inside the server folder:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 CLIPDROP_API_KEY=your_clipdrop_api_key
 RAZORPAY_KEY_ID=your_razorpay_key_id
 RAZORPAY_KEY_SECRET=your_razorpay_key_secret
-Start the backend server:
 
-bash
-Copy
-Edit
+Start the backend server:
 npm start
+
 3️⃣ Setup Frontend (Client)
 Open a new terminal:
-
-bash
-Copy
-Edit
 cd client
 npm install
-Create a .env file inside the client folder:
 
-env
-Copy
-Edit
+Create a .env file inside the client folder:
 VITE_BACKEND_URL=http://localhost:5000
 VITE_RAZORPAY_KEY_ID=your_razorpay_key_id
-Start the frontend:
 
-bash
-Copy
-Edit
+Start the frontend:
 npm run dev
+
 📦 How to Run
 Start backend (server folder)
 
