@@ -4,8 +4,8 @@ An AI-powered text-to-image generation platform built with the **MERN stack**. U
 
 I built an AI-powered Text-to-Image Generator website using the MERN stack. After authentication via JWT, users can enter a text prompt, which is sent to the backend REST API in Node.js/Express. The backend calls the Clipdrop API with this prompt, which uses AI image generation models to create and return the image. Credits are deducted from MongoDB for each generation, and when credits run out, users can buy more through Razorpay integration. The frontend, built in React.js, provides a responsive and smooth user experience. This project gave me experience with API integration, AI image generation, payment gateways, and secure full-stack architecture.
 
-🔗 **Live Demo:** *Add your deployed link here*  
-📂 **Source Code:** *https://github.com/radha35/imageG-Prompt2Pic-.git*  
+🔗 **Live Demo:** [ImageZ Live](https://imagez-client.onrender.com/)  
+📂 **Source Code:** [GitHub Repository](https://github.com/allknowledge34/ImageZ)
 
 ---
 
