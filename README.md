@@ -120,14 +120,14 @@ User (React.js Frontend) → [HTTPS Request] → Backend (Express.js)
 ---
 
 ## 📷 Screenshots
-> *(<img width="1916" height="873" alt="Screenshot 2025-08-11 203414" src="https://github.com/user-attachments/assets/86d972cc-e230-449a-935b-db5ba0978128" />
-<img width="1894" height="871" alt="Screenshot 2025-08-11 203117" src="https://github.com/user-attachments/assets/f6cd16f0-fd6e-4564-8304-95ee71a7fcb5" />
-<img width="1913" height="867" alt="Screenshot 2025-08-11 203317" src="https://github.com/user-attachments/assets/5a3c22d2-0534-4d82-a103-70a3961420d6" />
-<img width="1887" height="876" alt="Screenshot 2025-08-11 203338" src="https://github.com/user-attachments/assets/1c7813cc-862f-4af6-806a-42de0d1fafdc" />
-<img width="1919" height="921" alt="Screenshot 2025-08-11 203057" src="https://github.com/user-attachments/assets/1bd20286-f31f-461c-819f-6d32e1e48128" />
-<img width="1900" height="875" alt="Screenshot 2025-08-11 203039" src="https://github.com/user-attachments/assets/ce450d9f-ee6e-40f3-abad-51944a16370c" />
-<img width="1919" height="871" alt="Screenshot 2025-08-11 203016" src="https://github.com/user-attachments/assets/9b04b572-a2f0-4427-bace-e423adb7af7e" />
-<img width="1899" height="878" alt="Screenshot 2025-08-11 202954" src="https://github.com/user-attachments/assets/2f15d8ef-68c4-43f8-90a0-48ee0f142a52" />
+> *(<img width="1899" height="878" alt="Screenshot 2025-08-11 202954" src="https://github.com/user-attachments/assets/1d36ff51-31fd-46b3-8bb0-41bb642a4954" />
+<img width="1919" height="871" alt="Screenshot 2025-08-11 203016" src="https://github.com/user-attachments/assets/58957d8e-54ad-45b7-91bb-23fc6398063f" />
+<img width="1900" height="875" alt="Screenshot 2025-08-11 203039" src="https://github.com/user-attachments/assets/3b70e2cf-2d75-4029-9f2a-05e810e9e245" />
+<img width="1919" height="921" alt="Screenshot 2025-08-11 203057" src="https://github.com/user-attachments/assets/914469cf-d49e-456f-82fc-b239e97623fc" />
+<img width="1913" height="867" alt="Screenshot 2025-08-11 203317" src="https://github.com/user-attachments/assets/537030f0-f0a9-4734-a423-ea98d3d9981b" />
+<img width="1887" height="876" alt="Screenshot 2025-08-11 203338" src="https://github.com/user-attachments/assets/01e16dd7-90ab-4827-8af3-a6ae1abe4a14" />
+<img width="1894" height="871" alt="Screenshot 2025-08-11 203117" src="https://github.com/user-attachments/assets/0f0d71df-1eb4-4633-b547-9fa1a8e7b277" />
+<img width="1916" height="873" alt="Screenshot 2025-08-11 203414" src="https://github.com/user-attachments/assets/43a1a0c3-ffb0-45fb-8510-33f71f5b5301" />
 )*
 
 ---
