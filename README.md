@@ -1,4 +1,4 @@
-# imageG - AI Powered Text-to-Image Generator
+# imageG - AI Powered Text-to-Image Generator 
 
 An AI-powered text-to-image generation platform built with the **MERN stack**. Users can register, log in, and generate high-quality AI images by entering a text prompt. Each account has a credits system that limits the number of images generated. Users can purchase more credits using **Razorpay** integration.  
 
@@ -141,4 +141,4 @@ User (React.js Frontend) → [HTTPS Request] → Backend (Express.js)
 
 ## 👨‍💻 Author
 **Radha**  
-🔗 [GitHub](https://github.com/yourusername)  
+🔗 [GitHub](https://github.com/radha35)  
