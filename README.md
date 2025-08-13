@@ -52,50 +52,12 @@ imageG/
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/radha35/imageG-Prompt2Pic-.git
+git clone https://github.com/radha35/imageG-Prompt2Pic-.git
 cd imageG
   
 └── README.md
-
-2️⃣ Setup Backend (Server)
+### 2️⃣ Setup Backend (Server)
+```bash
 cd server
 npm install
 
-
-Create a .env file inside the server folder:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-CLIPDROP_API_KEY=your_clipdrop_api_key
-RAZORPAY_KEY_ID=your_razorpay_key_id
-RAZORPAY_KEY_SECRET=your_razorpay_key_secret
-
-Start the backend server:
-npm start
-
-3️⃣ Setup Frontend (Client)
-Open a new terminal:
-cd client
-npm install
-
-Create a .env file inside the client folder:
-VITE_BACKEND_URL=http://localhost:5000
-VITE_RAZORPAY_KEY_ID=your_razorpay_key_id
-
-Start the frontend:
-npm run dev
-
-📦 How to Run
-Start backend (server folder)
-
-Start frontend (client folder)
-
-Open browser at: http://localhost:5173 (default Vite port)
-
-🔄 Flow Diagram
-plaintext
-Copy
-Edit
-User (React.js Frontend) → [HTTPS Request] → Backend (Express.js)
-→ MongoDB (Mongoose) → Clipdrop API (Image Generation)
-→ Razorpay API (Payment Gateway) → Back to Frontend (UI Update)
