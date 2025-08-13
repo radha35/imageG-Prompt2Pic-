@@ -120,7 +120,15 @@ User (React.js Frontend) → [HTTPS Request] → Backend (Express.js)
 ---
 
 ## 📷 Screenshots
-> *(Add your screenshots here for visual reference)*
+> *(<img width="1919" height="921" alt="Screenshot 2025-08-11 203057" src="https://github.com/user-attachments/assets/78bdaa87-d8b5-4114-99b1-7cd4e653f807" />
+<img width="1894" height="871" alt="Screenshot 2025-08-11 203117" src="https://github.com/user-attachments/assets/a9b41e6f-5d66-4a81-864e-e70e2c3435f3" />
+<img width="1899" height="878" alt="Screenshot 2025-08-11 202954" src="https://github.com/user-attachments/assets/5c172274-881e-4570-94f7-2cf1dac4d13f" />
+<img width="1919" height="871" alt="Screenshot 2025-08-11 203016" src="https://github.com/user-attachments/assets/2500a8a6-7eec-41c2-87d1-724127ccf8ea" />
+<img width="1900" height="875" alt="Screenshot 2025-08-11 203039" src="https://github.com/user-attachments/assets/3cc6e542-b07f-48d7-a470-69f0fa0ded0c" />
+<img width="1913" height="867" alt="Screenshot 2025-08-11 203317" src="https://github.com/user-attachments/assets/a817c93b-b22e-488b-b3de-1e96cb64f333" />
+<img width="1887" height="876" alt="Screenshot 2025-08-11 203338" src="https://github.com/user-attachments/assets/fde68025-fea4-4bc8-87d1-96dbafb74715" />
+<img width="1916" height="873" alt="Screenshot 2025-08-11 203414" src="https://github.com/user-attachments/assets/96149388-dcc9-49f2-a454-10a5c6550cef" />
+)*
 
 ---
 
